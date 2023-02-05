@@ -5,7 +5,7 @@
 ![](./design/desktop-design.jpg)
 ### Links
 
-- Solution URL: [ solution](https://your-solution-url.com)
+- Solution URL: [ solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-CSXcm842Pd)
 - Live Site URL: [live site](https://mtaman.github.io/Product-preview-card/)
 
 ## My process
